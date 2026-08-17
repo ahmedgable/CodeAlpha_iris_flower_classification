@@ -47,3 +47,6 @@ The famous **Iris Dataset** consists of 150 instances with 4 numeric features an
 ├── species_encoder.pkl         # Fitted LabelEncoder for target classes
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project documentation
+## run project
+pip install -r requirements.txt
+streamlit run app.py
