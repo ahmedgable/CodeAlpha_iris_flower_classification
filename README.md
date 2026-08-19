@@ -1,7 +1,8 @@
 # 🌸 Iris Flower Classification App
 
 A machine learning web application built with **Streamlit** and **Scikit-Learn** that predicts the species of an Iris flower (*Setosa*, *Versicolor*, or *Virginica*) based on its sepal and petal measurements.
-
+link linkedin : https://www.linkedin.com/in/ahmed-gable/
+link demo : https://codealphairisflowerclassification-yvxzn2mfnwuhebydz4knwg.streamlit.app/
 ---
 
 ## 📌 Project Overview
